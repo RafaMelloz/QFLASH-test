@@ -12,3 +12,5 @@ Para rodar o projeto em modo de desenvolvimento
 ### `npx json-server --watch db.json --port 3001`
 
 Para iniciar o json server em uma porta diferente do projeto 
+
+Alguns redirecionamentos podem demorar por conta da compilação

@@ -44,7 +44,13 @@
       "name": "User4",
       "email": "user4@gmail.com",
       "password": "password4",
-      "annualRevenue": 1800
+      "annualRevenue": 1800,
+      "address": {
+        "street": "1600 Fake Street 4",
+        "city": "Mountain View 4",
+        "state": "CA 4",
+        "cep": "94043-444"
+      }
     },
     {
       "id": "5e6f",
@@ -88,19 +94,6 @@
       "email": "user10@gmail.com",
       "password": "password10",
       "annualRevenue": 2400
-    },
-    {
-      "id": "bde1",
-      "name": "Rafael Melo",
-      "email": "rafaelmeloalvessouza@gmail.com",
-      "password": "rafael15",
-      "annualRevenue": 10,
-      "address": {
-        "street": "Rua VInho",
-        "city": "Itapevi",
-        "state": "SP",
-        "cep": "66554-433"
-      }
     }
   ]
 }
