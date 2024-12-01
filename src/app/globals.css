@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input, textarea, button {
+  @apply outline-none focus:outline-none
+}
+
+body {
+  @apply bg-slate-100}

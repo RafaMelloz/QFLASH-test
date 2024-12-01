@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": "1a2b",
+      "name": "User1",
+      "email": "user1@gmail.com",
+      "password": "password1",
+      "annualRevenue": 1500,
+      "address": {
+        "street": "Erfundene Straße 33",
+        "city": "München",
+        "state": "PA",
+        "cep": "80732-312"
+      }
+    },
+    {
+      "id": "2b3c",
+      "name": "User2",
+      "email": "user2@gmail.com",
+      "password": "password2",
+      "annualRevenue": 1600,
+      "address": {
+        "street": "Rua Inexistente, 2000",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "cep": "30260-080"
+      }
+    },
+    {
+      "id": "3c4d",
+      "name": "User3",
+      "email": "user3@gmail.com",
+      "password": "password3",
+      "annualRevenue": 1700,
+      "address": {
+        "street": "Rua vermelhar",
+        "city": "Osasco",
+        "state": "SP",
+        "cep": "0990809231"
+      }
+    },
+    {
+      "id": "4d5e",
+      "name": "User4",
+      "email": "user4@gmail.com",
+      "password": "password4",
+      "annualRevenue": 1800
+    },
+    {
+      "id": "5e6f",
+      "name": "User5",
+      "email": "user5@gmail.com",
+      "password": "password5",
+      "annualRevenue": 1900
+    },
+    {
+      "id": "6f7g",
+      "name": "User6",
+      "email": "user6@gmail.com",
+      "password": "password6",
+      "annualRevenue": 2000,
+      "address": null
+    },
+    {
+      "id": "7g8h",
+      "name": "User7",
+      "email": "user7@gmail.com",
+      "password": "password7",
+      "annualRevenue": 2100
+    },
+    {
+      "id": "8h9i",
+      "name": "User8",
+      "email": "user8@gmail.com",
+      "password": "password8",
+      "annualRevenue": 2200
+    },
+    {
+      "id": "9i0j",
+      "name": "User9",
+      "email": "user9@gmail.com",
+      "password": "password9",
+      "annualRevenue": 2300
+    },
+    {
+      "id": "0j1k",
+      "name": "User10",
+      "email": "user10@gmail.com",
+      "password": "password10",
+      "annualRevenue": 2400
+    },
+    {
+      "id": "bde1",
+      "name": "Rafael Melo",
+      "email": "rafaelmeloalvessouza@gmail.com",
+      "password": "rafael15",
+      "annualRevenue": 10,
+      "address": {
+        "street": "Rua VInho",
+        "city": "Itapevi",
+        "state": "SP",
+        "cep": "66554-433"
+      }
+    }
+  ]
+}
